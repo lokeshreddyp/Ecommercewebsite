@@ -1,0 +1,1 @@
+<% response.sendRedirect("music/products"); %>
